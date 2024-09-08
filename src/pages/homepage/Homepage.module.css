@@ -1,0 +1,15 @@
+.Homepage__wrapperIconLogout {
+  position: absolute;
+  top: 30px;
+  right: 50px;
+  cursor: pointer;
+}
+
+.Homepage__table {
+  width: 70%;
+  margin: 30px auto 50px;
+}
+
+.Homepage__addButton {
+  font-size: 50px;
+}

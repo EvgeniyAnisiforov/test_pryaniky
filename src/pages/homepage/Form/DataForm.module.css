@@ -1,0 +1,10 @@
+.DataForm__container__flex {
+  display: flex;
+}
+.DataForm__wrapperInput {
+  width: 70%;
+  margin: 5px 0;
+}
+.DataForm__containerButton {
+  margin: 30px 0;
+}
